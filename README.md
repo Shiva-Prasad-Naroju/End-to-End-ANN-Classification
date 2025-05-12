@@ -1,4 +1,4 @@
-## 🧠 Customer Churn Prediction using ANN
+# 🧠 Customer Churn Prediction using ANN
 
 ## 📌 Problem Statement
 Customer churn refers to the loss of customers in a business. This project aims to predict whether a customer will leave the bank based on various features like credit score, age, tenure, balance, etc. Accurately predicting churn can help businesses retain customers and improve service quality.
@@ -36,9 +36,9 @@ The app will display whether the customer is likely to exit or stay.
 
 ## 🛠 For Local Setup (Optional)
 
-git clone https://github.com/your-username/end-to-end-ann-classification.git
+git clone https://github.com/Shiva-Prasad-Naroju/End-to-End-Customer-Churn-prediction-using-ANN.git
 
-cd end-to-end-ann-classification
+cd End-to-End-Customer-Churn-prediction-using-ANN
 
 pip install -r requirements.txt
 
@@ -57,12 +57,19 @@ Model input transformation using saved encoders
 
 📦customer-churn-ann
  ┣ 📜app.py                     # Streamlit app
+ 
  ┣ 📜model.h5                   # Trained ANN model
+ 
  ┣ 📜label_encoder_gender1.pkl  # Label encoder for gender
+ 
  ┣ 📜onehot_encoder_geo.pkl     # OHE for geography
+ 
  ┣ 📜scaler.pkl                 # Feature scaler
+ 
  ┣ 📜requirements.txt           # Dependencies
+ 
  ┣ 📜README.md                  # Project documentation
+ 
  ┗ 📜Churn_Modelling.csv        # Dataset
 
 
