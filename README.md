@@ -75,21 +75,23 @@ Model input transformation using saved encoders
 ## 🧪 Model Building (ANN)
 Used TensorFlow Keras Sequential API.
 
-### Architecture:
+🚀 Used TensorFlow Keras Sequential API
 
-Input layer: normalized numerical features
+### 🧠 Architecture:
 
-Hidden layers: 2 Dense layers with ReLU
+📥 Input layer: normalized numerical features
 
-Output layer: Sigmoid (binary classification)
+🔁 Hidden layers: 2 Dense layers with ReLU 🔥
 
-### Compiled with:
+📤 Output layer: Sigmoid ➡️ Binary Classification ✅❌
 
-Optimizer: adam
+### ⚙️ Compiled with:
 
-Loss: binary_crossentropy
+🧪 Optimizer: adam
 
-Metrics: accuracy
+   Loss: binary_crossentropy
+
+📊 Metrics: accuracy 🎯
 
 ## 📩 Contact
 📧 Shiva Prasad Naroju - shivanaroju26@gmail.com
