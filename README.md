@@ -83,7 +83,7 @@ Hidden layers: 2 Dense layers with ReLU
 
 Output layer: Sigmoid (binary classification)
 
-C### ompiled with:
+### Compiled with:
 
 Optimizer: adam
 
