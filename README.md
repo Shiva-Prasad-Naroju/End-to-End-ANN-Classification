@@ -3,8 +3,6 @@
 ## 📌 Problem Statement
 Customer churn refers to the loss of customers in a business. This project aims to predict whether a customer will leave the bank based on various features like credit score, age, tenure, balance, etc. Accurately predicting churn can help businesses retain customers and improve service quality.
 
-🔗 Live App: https://end-to-end-ann-classification-jwixyyg3xw9ozeadksvoto.streamlit.app/
-
 ## 📊 Dataset Info
 The dataset consists of 10,000 entries with the following features:
 
@@ -77,7 +75,7 @@ Model input transformation using saved encoders
 ## 🧪 Model Building (ANN)
 Used TensorFlow Keras Sequential API.
 
-Architecture:
+### Architecture:
 
 Input layer: normalized numerical features
 
@@ -85,7 +83,7 @@ Hidden layers: 2 Dense layers with ReLU
 
 Output layer: Sigmoid (binary classification)
 
-Compiled with:
+C### ompiled with:
 
 Optimizer: adam
 
