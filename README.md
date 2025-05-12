@@ -55,7 +55,8 @@ Model input transformation using saved encoders
 
 ## 📁 Repository Structure
 
-📦customer-churn-ann
+📦End-to-End-Customer-Churn-Prediction-using-ANN
+
  ┣ 📜app.py                     # Streamlit app
  
  ┣ 📜model.h5                   # Trained ANN model
@@ -91,3 +92,6 @@ Optimizer: adam
 Loss: binary_crossentropy
 
 Metrics: accuracy
+
+## 📩 Contact
+📧 Shiva Prasad Naroju - shivanaroju26@gmail.com
