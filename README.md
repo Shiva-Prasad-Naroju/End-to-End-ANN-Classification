@@ -12,6 +12,7 @@ Categorical: Geography (OneHotEncoded), Gender (LabelEncoded)
 
 Target: Exited (1 if customer left the bank, 0 otherwise)
 
+
 ## 🔧 Tech Stack Used
 TensorFlow/Keras for building the ANN
 
@@ -23,6 +24,7 @@ Matplotlib for data visualization
 
 LabelEncoder & OneHotEncoder with .pkl files saved for real-time input transformation
 
+
 ## 📦 How to Use the Web App
 Open the link: https://end-to-end-ann-classification-jwixyyg3xw9ozeadksvoto.streamlit.app/
 
@@ -31,6 +33,7 @@ Enter customer details like Credit Score, Age, Geography, Balance, etc.
 Click Predict.
 
 The app will display whether the customer is likely to exit or stay.
+
 
 ## 🛠 For Local Setup (Optional)
 
@@ -42,6 +45,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+
 ## ✅ Key Features
 Real-time prediction of customer churn
 
@@ -50,6 +54,7 @@ Fully interactive Streamlit app
 Clean and modular code
 
 Model input transformation using saved encoders
+
 
 ## 📁 Repository Structure
 
@@ -73,7 +78,6 @@ Model input transformation using saved encoders
 
 
 ## 🧪 Model Building (ANN)
-Used TensorFlow Keras Sequential API.
 
 🚀 Used TensorFlow Keras Sequential API
 
